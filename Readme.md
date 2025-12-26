@@ -23,6 +23,10 @@ Note: that timing is from esp32-s3. Timings on Mac/POSIX will be reported 1000x 
 
 ## Video Demo
 
+
+
+https://github.com/user-attachments/assets/2bbd4fd5-04f7-4890-abf0-5e7454345148
+
 .
 
 ## How to run xcc700?
