@@ -37,7 +37,11 @@ Several options:
 
 **B.** Compile for esp32 using xtensa-gcc or xcc700 from the option A (yes it can compile and cross-compile itself). Or grab the gcc-compiled version here: [xcc700.elf (16kB)](release/xcc700.elf). Run with [ESP-IDF elf_loader](https://components.espressif.com/components/espressif/elf_loader/).
 
-**C.** Adapt the source code and call it as a function in your firmware.
+**C.** If you use my [BreezyBox shell component](https://github.com/valdanylchuk/breezybox), like in [this demo project](https://github.com/valdanylchuk/breezydemo/), this will download and install it into your bin folder:
+
+    eget valdanylchuk/xcc700
+
+**D.** Adapt the source code and call it as a function in your firmware.
 
 ## What is included?
 
