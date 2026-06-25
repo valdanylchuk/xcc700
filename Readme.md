@@ -7,6 +7,9 @@
 - Reusable ELF writer, and a basic Xtensa bytecodes emitter.
 - Possibly useful for hotfixes, CI, quick test/debug turnaround on esp32.
 
+**Update**: New port: [rcc700 for esp32 RISC-V variants](https://github.com/valdanylchuk/rcc700)
+(tested on esp32-p4)
+
 ## Sample output
 
     ./xcc700 xcc700.c -o xcc700.elf 
